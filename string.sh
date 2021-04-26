@@ -1,5 +1,5 @@
 #!/bin/bash
-#   Copyright (C) 2021 AuraXNetwork
+#   Copyright (C) 2021 W2HGalaxy-OP
 #
 #   Poject VΛDΣЯ is free software: 
 #   you can redistribute it and/or modify it under the terms of the GNU General Public License 
@@ -23,8 +23,8 @@ echo """
 ┃┏━┓┃┗┛┃┃┃┏┓┣╋╋┫┗┛┃┗┛┃┗┓
 ┗┛ ┗┻━━┻┛┗┛┗┻┛┗┻━━┻━━┻━┛
 
-Legendary AuraXBot
-@AuraXSupport
+Legendary W2HBot
+@W2HSupport
 """
 
 python3 string_session.py

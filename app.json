@@ -1,7 +1,7 @@
 {
-  "name": "AuraXBot",
-  "description": "The best userbot made by @AuraX_Owner. Made with Love... ❤ For Support Join @AuraXUserbot ",
-  "logo": "https://telegra.ph/file/62b6e6a1bb6ed711401ce.jpg",
+  "name": "W2HBot",
+  "description": "The best userbot made by @W2H_Owner. Made with Love... ❤ For Support Join @W2H_Userbot ",
+  "logo": "https://telegra.ph/file/cee753391111580ae8a0c.jpg",
     "keywords": [
     "telegram",
     "userbot",
@@ -9,9 +9,9 @@
     "modular",
     "productivity"
   ],
-  "repository": "https://github.com/AuraXNetwork/AuraXBot/",
-  "website": "https://github.com/AuraXNetwork/AuraXBot/",
-  "success_url": "https://t.me/AuraXUserbot",
+  "repository": "https://github.com/W2HGalaxy-OP/W2HBot/",
+  "website": "https://github.com/W2HGalaxy-OP/W2HBot/",
+  "success_url": "https://t.me/W2HUserbot",
   "env": {
     "ENV": {
       "description": "Set this to ANYTHING will enable heroku.",
@@ -23,28 +23,28 @@
       "required": false
     },
     "ALIVE_NAME": {
-      "description": "Fill your Full name. By default it is AuraX User",
-      "value": "AuraX User",
+      "description": "Fill your Full name. By default it is W2H User",
+      "value": "W2H User",
       "required": false
     },
     "ALIVE_MSG": {
-      "description": "Set Custom Alive Message When entering .aurax Command.",
-      "value": "Legendary AuraXBot Is Alive",
+      "description": "Set Custom Alive Message When entering .W2H Command.",
+      "value": "Legendary W2HBot Is Alive",
       "required": false
     },
     "ALIVE_PIC": {
-      "description": "Put here any telegraph media link for alive pic in .aurax command.",
-      "value": "https://telegra.ph/file/62b6e6a1bb6ed711401ce.jpg",
+      "description": "Put here any telegraph media link for alive pic in .W2H command.",
+      "value": "https://telegra.ph/file/cee753391111580ae8a0c.jpg",
       "required": false
     },
     "BIO_MSG": {
       "description": "Put Your Telegram Bio Here Required For Auto Bio.",
-      "value": "I am a legend. Bcoz i am AuraX User",
+      "value": "I am a legend. Bcoz i am W2H User",
       "required": false
     },
     "PMPERMIT_PIC": {
       "description": "put here any telegraph media link for custom pmpermit pic.",
-      "value": "https://telegra.ph/file/19394b52001265d943584.mp4",
+      "value": "https://telegra.ph/file/cee753391111580ae8a0c.jpg",
       "required": true
     },
     "CUSTOM_PMPERMIT": {
@@ -107,7 +107,7 @@
        "value": "-1001174450494"
     }, 
     "STRING_SESSION": {
-      "description": "Get this value by running https://repl.it/itzgauravv/AuraXBot#main.py ",
+      "description": "Get this value by running https://repl.it/@GalaxyOp/W2HBOT#main.py ",
       "value": ""
     },
     "HEROKU_API_KEY": {
@@ -136,7 +136,7 @@
     },
     "TG_BOT_USER_NAME_BF_HER": {
       "description": "Needed for inline buttons maker. Make a bot at @BotFather and get the username of your bot",
-      "value": "@AuraX_Public_Bot"
+      "value": "@W2H_Public_Bot"
     },
     "OPEN_WEATHER_MAP_APPID": {
       "description": "Get your own APPID from https://api.openweathermap.org/data/2.5/weather",
@@ -154,7 +154,7 @@
     },
     "EMOJI_TO_DISPLAY_IN_HELP": {
       "description": "Set The emojies You Want to Add In Help Command!!",
-      "value": "⚡",
+      "value": "👻",
       "required": false
     }, 
     "TZ": {

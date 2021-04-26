@@ -1,1 +1,1 @@
-worker: bash AuraXBot
+worker: bash W2HBot
