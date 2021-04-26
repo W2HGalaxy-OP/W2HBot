@@ -1,11 +1,11 @@
-<h1 align="center">⚡ A U R A X B O T ⚡</h1>
+<h1 align="center">⚡ 𝕎𝟚ℍ𝔹𝕠𝕥 ⚡</h1>
 
 
 <h2>This is a userbot made for telegram. I made this userbot with help of all other userbots available in telegram. All credits goes to its Respective Owners.
 
-This is the one and only official W2HBot Userbot made by @W2HGalaxy-OP. Don't forget to star this repo if you liked it. Enjoy Your Bot!!💝</h2>
+This is the one and only official W2HBot Userbot made by @David99q. Don't forget to star this repo if you liked it. Enjoy Your Bot!!💝</h2>
 
-[![W2HBot logo](https://telegra.ph/file/62b6e6a1bb6ed711401ce.jpg)](https://t.me/W2HUserbot)
+[![W2HBot logo](https://telegra.ph/file/7a288583a47e08a6098b3.jpg)](https://t.me/W2H_Userbot)
 
 <h2 align="center">The owner would not be responsible for any kind of bans due to the bot.</h2>
 
@@ -22,7 +22,7 @@ This is the one and only official W2HBot Userbot made by @W2HGalaxy-OP. Don't fo
 <h3> StringSession </h3>
 
 
-[![GenerateString](https://img.shields.io/badge/repl.it-generateString-yellowgreen)](https://replit.com/@itzgauravv/W2HBot#main.py) 
+[![GenerateString](https://img.shields.io/badge/repl.it-generateString-yellowgreen)](https://replit.com/@GalaxyOp/W2HBOT#main.py) 
 
     - Click On Generate String
     - Then Click On Green Run Button.
@@ -30,9 +30,9 @@ This is the one and only official W2HBot Userbot made by @W2HGalaxy-OP. Don't fo
     - String will be saved in your Saved Message.
 
 
-<h1 align="center">TO HOST  A U R A X B O T LOCALLY OR ON ANY OTHER VPS CLICK BELOW</h1>
+<h1 align="center">TO HOST 𝕎𝟚ℍ𝔹𝕠𝕥 LOCALLY OR ON ANY OTHER VPS CLICK BELOW</h1>
 
-<h2 align="center"> <a href="https://github.com/W2HGalaxy-OP/W2HUserbot">⚡ A U R A X U S E R B O T  ⚡</a></h2>
+<h2 align="center"> <a href="https://github.com/W2HGalaxy-OP/W2HUserbot">⚡ 𝕎 𝟚 ℍ 𝕌 𝕊 𝔼 ℝ 𝔹 𝕆 𝕋  ⚡</a></h2>
 
 ## Mandatory Vars
 
@@ -60,12 +60,12 @@ support Group and get updates
 notifications in Update Channel.
 ```
 
-<a href="https://t.me/W2HUserbot"><img src="https://img.shields.io/badge/Join-Support%20Channel-red.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://t.me/W2H_Userbot"><img src="https://img.shields.io/badge/Join-Support%20Channel-red.svg?style=for-the-badge&logo=Telegram"></a>
 
 <a href="https://t.me/W2HSupport"><img src="https://img.shields.io/badge/Join-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a>
 
 
-[![Contact Me](https://img.shields.io/badge/Telegram-Contact%20Me-informational)](https://t.me/W2HOwner)
+[![Contact Me](https://img.shields.io/badge/Telegram-Contact%20Me-informational)](https://t.me/David99q)
 
 
 <details>
