@@ -143,12 +143,12 @@
       "required": false
     },
     "NO_OF_BUTTONS_DISPLAYED_IN_H_ME_CMD": {
-      "description": " Set The Amount Of Buttons Displayed In Help Command default 8",
+      "description": " Set The Amount Of Buttons Displayed In Help Command default 6",
       "value": "6",
       "required": true
     },
     "NO_OF_COLUMS_DISPLAYED_IN_H_ME_CMD": {
-      "description": "Set The Amount Of Rows You Want To Displayed In Help Command default 2",
+      "description": "Set The Amount Of Rows You Want To Displayed In Help Command default 3",
       "value": "3",
       "required": true
     },
