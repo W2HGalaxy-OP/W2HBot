@@ -6,10 +6,10 @@ _get_repolink () {
     regex='(https?)://github.com/.+/.+'
     if [[ $W2H_REPO == "W2HBot" ]]
     then
-        echo "aHR0cHM6Ly9naXRodWIuY29tL0F1cmFYTmV0d29yay9BdXJhWFVzZXJib3QvYXJjaGl2ZS9tYXN0ZXIuemlw" | base64 -d
+        echo "aHR0cHM6Ly9naXRodWIuY29tL1cySEdhbGF4eS1PUC9XMkhVc2VyYm90L2FyY2hpdmUvbWFzdGVyLnppcA==" | base64 -d
     elif [[ $W2H_REPO == "W2HBot" ]]
     then
-        echo "aHR0cHM6Ly9naXRodWIuY29tL0F1cmFYTmV0d29yay9BdXJhWFVzZXJib3QvYXJjaGl2ZS9tYXN0ZXIuemlw" | base64 -d
+        echo "aHR0cHM6Ly9naXRodWIuY29tL1cySEdhbGF4eS1PUC9XMkhVc2VyYm90L2FyY2hpdmUvbWFzdGVyLnppcA==" | base64 -d
     elif [[ $W2H_REPO =~ $regex ]]
     then
         if [[ $W2H_REPO_BRANCH ]]
@@ -19,7 +19,7 @@ _get_repolink () {
             echo "${W2H_REPO}/archive/master.zip"
         fi
     else
-        echo "aHR0cHM6Ly9naXRodWIuY29tL0F1cmFYTmV0d29yay9BdXJhWFVzZXJib3QvYXJjaGl2ZS9tYXN0ZXIuemlw" | base64 -d
+        echo "aHR0cHM6Ly9naXRodWIuY29tL1cySEdhbGF4eS1PUC9XMkhVc2VyYm90L2FyY2hpdmUvbWFzdGVyLnppcA==" | base64 -d
     fi
 }
 
@@ -39,13 +39,7 @@ _set_bot () {
     cd $W2HPATH
     echo "    Starting W2HBot    "
     echo "
-    ┏━━━┓          ┏┓    ┏┓
-    ┃┏━┓┃          ┃┃   ┏┛┗┓
-    ┃┃ ┃┣┓┏┳━┳━━┳┓┏┫┗━┳━┻┓┏┛
-    ┃┗━┛┃┃┃┃┏┫┏┓┣╋╋┫┏┓┃┏┓┃┃
-    ┃┏━┓┃┗┛┃┃┃┏┓┣╋╋┫┗┛┃┗┛┃┗┓
-    ┗┛ ┗┻━━┻┛┗┛┗┻┛┗┻━━┻━━┻━┛  
-
+    W2HBOT
     "
 
     python3 ../setup/updater.py ../requirements.txt requirements.txt
