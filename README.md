@@ -101,6 +101,12 @@ along with this program. If not, see <https://www.gnu.org/licenses/>.
 <details>
 
   <summary> • Credits 🏅 • </summary>
+  
+• [Galaxy-OP](https://github.com/W2HGlaxy-OP):DEV
+
+• [Itzgauravv](https://github.com/itzgauravv):DEV
+
+• [AuraXBot](https://github.com/AuraXNetwork/AuraXBot)
 
 • [JaaduBot](https://github.com/Amberyt/JaaduBot)
 
