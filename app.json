@@ -54,12 +54,12 @@
     },
     "PM_PERMIT_GROUP_ID": {
       "description": "Put an Group Id Same As PRIVATE_GROUP_ID Required For Pmpermit plugin.",
-      "value": "-1001174450494",
+      "value": "",
       "required": true
     },
     "APP_ID": {
       "description": "Get this value from my.telegram.org! Putting Others Value may result In Account Ban.",
-      "value": "2184829"
+      "value": ""
     },
     "REM_BG_API_KEY": {
       "description": "Required for Removing image background. Get your api key from https://www.remove.bg/",
@@ -88,23 +88,23 @@
     },
     "API_HASH": {
       "description": "Get this value from my.telegram.org! Putting Others Value May result In Account Ban.",
-      "value": "6930b92388baabff4cb4a1d377085035"
+      "value": ""
     },
     "PLUGIN_CHANNEL": {
       "description": "Create a private group add rose  then type /id. PLUGIN_CHANNEL and PRIVATE_GROUP_ID both values should be same",
-      "value": "-1001174450494"
+      "value": ""
     },
     "PRIVATE_GROUP_BOT_API_ID": {
       "description": "create a private channel and then type .get_id add that value here for save messages",
-      "value": "-1001174450494"
+      "value": ""
     },
     "PRIVATE_GROUP_ID": {
       "description": "Create a private group add rose bot then type /id. PLUGIN_CHANNEL and PRIVATE_GROUP_ID both values should be same",
-      "value": "-1001174450494"
+      "value": ""
     },
     "PM_LOGGR_BOT_API_ID": {
        "description": "for login private messages create a private channel and do .get_id and add that id", 
-       "value": "-1001174450494"
+       "value": ""
     }, 
     "STRING_SESSION": {
       "description": "Get this value by running https://repl.it/@GalaxyOp/W2HBOT#main.py ",
@@ -112,7 +112,7 @@
     },
     "HEROKU_API_KEY": {
       "description": "Go to https://dashboard.heroku.com/account, scroll down and press Reveal API.Required for updater to work.",
-      "value": "a79b4824-ae30-4037-bbd5-da263c24be15",
+      "value": "",
       "required": true
     },
     "HEROKU_APP_NAME": {
@@ -122,7 +122,7 @@
     },
     "TG_BOT_TOKEN_BF_HER": {
       "description": "Needed for inline buttons maker. Make a bot at [BotFather](http://telegram.dog/BotFather) and get the token of your bot. And Don't Forget To Turn on inline Mode on bot settings. Get it.",
-      "value": "1797665800:AAEccilk-d2Hmk3MGCTDDC_phkZAIDGrSgs"
+      "value": ""
     },
     "CHROME_BIN": {
       "description": "For Carbon.py. Leave as it is. ",
@@ -136,20 +136,20 @@
     },
     "TG_BOT_USER_NAME_BF_HER": {
       "description": "Needed for inline buttons maker. Make a bot at @BotFather and get the username of your bot",
-      "value": "@W2H_Public_Bot"
+      "value": ""
     },
     "OPEN_WEATHER_MAP_APPID": {
       "description": "Get your own APPID from https://api.openweathermap.org/data/2.5/weather",
       "required": false
     },
     "NO_OF_BUTTONS_DISPLAYED_IN_H_ME_CMD": {
-      "description": " Set The Amount Of Buttons Displayed In Help Command default 6",
-      "value": "6",
+      "description": " Set The Amount Of Buttons Displayed In Help Command default 8",
+      "value": "8",
       "required": true
     },
     "NO_OF_COLUMS_DISPLAYED_IN_H_ME_CMD": {
-      "description": "Set The Amount Of Rows You Want To Displayed In Help Command default 3",
-      "value": "3",
+      "description": "Set The Amount Of Rows You Want To Displayed In Help Command default 2",
+      "value": "2",
       "required": true
     },
     "EMOJI_TO_DISPLAY_IN_HELP": {
