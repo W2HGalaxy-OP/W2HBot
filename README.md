@@ -104,7 +104,7 @@ along with this program. If not, see <https://www.gnu.org/licenses/>.
   
 • [Galaxy-OP](https://github.com/W2HGalaxy-OP):DEV
 
-• [Itzgauravv](https://github.com/itzgauravv):DEV
+• [iisgaurav](https://github.com/iisgaurav):DEV
 
 • [AuraXBot](https://github.com/AuraXNetwork/AuraXBot)
 
