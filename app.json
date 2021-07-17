@@ -34,7 +34,7 @@
     },
     "ALIVE_PIC": {
       "description": "Put here any telegraph media link for alive pic in .W2H command.",
-      "value": "https://telegra.ph/file/cee753391111580ae8a0c.jpg",
+      "value": "https://telegra.ph/file/dcc486b26e6cd3fbf171d.jpg",
       "required": false
     },
     "BIO_MSG": {
@@ -44,7 +44,7 @@
     },
     "PMPERMIT_PIC": {
       "description": "put here any telegraph media link for custom pmpermit pic.",
-      "value": "https://telegra.ph/file/cee753391111580ae8a0c.jpg",
+      "value": "https://telegra.ph/file/dcc486b26e6cd3fbf171d.jpg",
       "required": true
     },
     "CUSTOM_PMPERMIT": {
