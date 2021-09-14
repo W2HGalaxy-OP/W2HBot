@@ -18,7 +18,7 @@ This is the one and only official W2HBot Userbot made by @David99q. Don't forget
 
 <a href="https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2FW2HGalaxy-OP%2FW2HBot&template=https%3A%2F%2Fgithub.com%2FW2HGalaxy-OP%2FW2HBot" rel="nofollow" style="background-color: initial; box-sizing: border-box; color: #0366d6; text-decoration-line: none;"><img alt="Deploy" data-canonical-src="https://www.herokucdn.com/deploy/button.svg" src="https://camo.githubusercontent.com/83b0e95b38892b49184e07ad572c94c8038323fb/68747470733a2f2f7777772e6865726f6b7563646e2e636f6d2f6465706c6f792f627574746f6e2e737667" style="border-style: none; box-sizing: initial; max-width: 100%;" /></a></div>
 </a>
-[![Deploy+on+Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https://github.com/W2HGalaxy-OP/W2HBOT&envs=STRING_SESSION,TG_BOT_TOKEN_BF_HER,TG_BOT_USER_NAME_BF_HER,TZ,TEMP_DOWNLOAD_DIRECTORY,SUDO_USERS,SUDO_COMMAND_HAND_LER,REM_BG_API_KEY,PRIVATE_GROUP_ID,PRIVATE_GROUP_BOT_API_ID,PMPERMIT_PIC,PM_PERMIT_GROUP_ID,PM_LOGGR_BOT_API_ID,PM_DATA,PLUGIN_CHANNEL,NO_OF_COLUMS_DISPLAYED_IN_H_ME_CMD,NO_OF_BUTTONS_DISPLAYED_IN_H_ME_CMD,ENV,CUSTOM_PMPERMIT,CHROME_DRIVER,CHROME_BIN,BIO_MSG,ALIVE_PIC,ALIVE_NAME,ALIVE_MSG,API_ID,API_HASH)
+[![Deploy+on+Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https://github.com/W2HGalaxy-OP/W2HBOT&envs=STRING_SESSION,TG_BOT_TOKEN_BF_HER,TG_BOT_USER_NAME_BF_HER,PRIVATE_GROUP_ID,PRIVATE_GROUP_BOT_API_ID,PMPERMIT_PIC,PM_PERMIT_GROUP_ID,PM_LOGGR_BOT_API_ID,PLUGIN_CHANNEL,CUSTOM_PMPERMIT,BIO_MSG,ALIVE_PIC,ALIVE_NAME,ALIVE_MSG,API_ID,API_HASH)
 <h3> StringSession </h3>
 
 
