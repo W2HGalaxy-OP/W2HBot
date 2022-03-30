@@ -114,8 +114,6 @@ along with this program. If not, see <https://www.gnu.org/licenses/>.
 
 • [MafiaBot](https://github.com/H1M4N5HU0P/MAFIA-BOT)
 
-• [HellBot](https://github.com/Hellboy-OP/hellbot)
+• [HellBot](https://github.com/The-HellBot/hellbot)
 
 • [Uniborg](https://github.com/spechide/uniborg)
-
-
